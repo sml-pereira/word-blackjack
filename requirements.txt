@@ -1,0 +1,5 @@
+# Word Blackjack has no external dependencies.
+# It runs on the Python 3 standard library alone — living proof that
+# sometimes less really is more.
+#
+# Python >= 3.7 is recommended.

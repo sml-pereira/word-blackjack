@@ -1,0 +1,13 @@
+Data Licence Notice
+====================
+
+The file `word_blackjack/data/english_words.txt` contains a list of English
+words used solely for word validation during gameplay.
+
+This word list is believed to be in the public domain and is widely available
+across open-source projects and linguistic corpora. It is redistributed here
+for non-commercial, educational, and entertainment purposes only.
+
+If you are the author or rights holder of this word list and believe its
+inclusion here infringes on your rights, please open an issue and it will be
+promptly addressed.
