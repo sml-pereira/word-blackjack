@@ -41,7 +41,7 @@ During your turn, instead of typing a word, you can use these single-letter comm
 
 - Python 3.7 or later
 - A terminal
-- At least one friend (optional but recommended — playing alone is just a vocabulary test)
+- At least one friend (optional but recommended)
 
 ### Clone and Run
 
